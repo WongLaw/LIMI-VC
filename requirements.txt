@@ -1,0 +1,9 @@
+editdistance
+librosa
+jsonargparse
+matplotlib
+PyYAML
+sox
+tensorboard
+torch
+tqdm
